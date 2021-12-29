@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to my GitHub Page
+I'm Andrew Hennessy, a data scientist with a passion for Ecology and the Environment.
 
-You can use the [editor on GitHub](https://github.com/abhennessy99/abhennessy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Resume
+Graduated from Wesleyan University with a 3.76 GPA double majoring in Biology and Earth & Environmental Sciences along with a minor in Data Analysis.
 
-### Markdown
+I am currently pursuing my Master's Degree in Biology at Wesleyan where I am continuing research that I started during my undergraduate career and plan to graduate in the Spring of 2022.
+
+While at Wesleyan I developed
+
+### Portfolio
+#### Presentations
+#### Visualization
+#### Code
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
