@@ -11,6 +11,8 @@ While at Wesleyan I worked as a GIS Research Assistant under <a href = "https://
 
 Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, Python, SQL, and HTML
 
+Advanced Visualization and Pattern Analysis Techinques: <b> Expert: </b> Shiny, Leaflet, Plotly, Generalized Linear and Mixed Models, Principle Components Analysis, <b> Proficient:</b> in Geographically Weighted Regression, Factor Analysis, Cluster analyses (k-means, PAM, hierarchical) Association Rules and Mining, Correspondance Analysis, 
+
 ### Portfolio
 #### Projects
 
@@ -21,7 +23,7 @@ I co-authored an R package (currently in review to be added to CRAN) that helps 
 As a capstone senior project for the Earth & Environmental Science major I helped to establish an unused plot of forested land owned by Wesleyan University as a long term experimental research forest. I randomly distributed eight plots across the forest's area, led a field team to measure the diameter of all trees in the plots, take soil samples, and calculate the total amount of carbon stored in this forest. The goal of this project was to asses the viability of this plot as a carbon offset for the travel emissions of Wesleyan University and provide space for future students to implement research projects. <a href = "Long Lane Research Forest.pdf" target="_blank"> Wesleyan University Long Lane Research Forest </a>
 
 ##### Wolf Recolonization
-I digitized, visualized, and analyzed wolf ranges in multiple western states to analyze the effect wolf presence and density has on deer vehicle collisions and the economic impact of wolves in these states. I also created R-scripts to automate the extraction of wolf presence and density across the counties in these states across 35+ years of wolf survey data. In my Advanced GIS course I created a framework for a geographically weighted regression analysis to measure the impact these wolves had on the spread of Chronic Wasting Disease in deer, but we are waiting on data to be released by the FWS. 
+I digitized, visualized, and analyzed wolf ranges in multiple western states to analyze the effect wolf presence and density has on deer vehicle collisions and the economic impact of wolves in these states. I also created R-scripts to automate the extraction of wolf presence and density across the counties in these states across 35+ years of wolf survey data. In my Advanced GIS and geospatial analysis course I created a framework for a geographically weighted regression to measure the impact these wolves had on the spread of Chronic Wasting Disease in deer in Wisconsin, but we are waiting on data to be released by the WIDNR. I created geoprocessing functions to reclasify NLCD land use raster pixels into a binary deer habitat raster to use alongside deer and wolf density values as predictor variables in the regression. <a href = "AHennessy_AdvGIS_Final.pdf"> CWD Final Report </a> 
 
 ##### Master's Thesis
 
