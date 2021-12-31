@@ -27,7 +27,8 @@ I digitized, visualized, and analyzed wolf ranges in multiple western states to 
 
 #### Visualizations
 
-Shiny App from Data Vis
+I created a <a href = "datavis_shiny_app.R"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
+
 GIS Visualizations 
  
 #### Presentations / Talks
