@@ -9,7 +9,7 @@ I am currently pursuing my Master's Degree in Biology at Wesleyan where I am con
 While at Wesleyan I worked as a GIS Research Assistant under Jennifer Raynor Ph.D. where
 
 
-Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:<b/> in Stata, Python, SQL, and HTML
+Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, Python, SQL, and HTML
 
 ### Portfolio
 #### Projects
