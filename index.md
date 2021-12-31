@@ -4,34 +4,34 @@ This page has a condensed resume and a portfolio of my projects, visualizations,
 ### Resume
 Graduated from Wesleyan University with a 3.76 GPA double majoring in Biology and Earth & Environmental Sciences along with a minor in Data Analysis.
 
-I am currently pursuing my Master's Degree in Biology at Wesleyan where I am continuing research that I started during my undergraduate career and plan to graduate in the Spring of 2022.
+I am currently pursuing my Master's Degree in Biology at Wesleyan where I am continuing research that I started during my undergraduate career in the <a href="http://msinger.faculty.wesleyan.edu/"> Singer Lab </a> and plan to graduate in the Spring of 2022.
 
-While at Wesleyan I worked as a GIS Research Assistant
+While at Wesleyan I worked as a GIS Research Assistant under Jennifer Raynor Ph.D. where
 
 
+Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:<b/> in Stata, Python, SQL, and HTML
 
 ### Portfolio
 #### Projects
 
 https://hkarp1.github.io/messy.cats/
 
-Senior Seminar
+Wesleyan University Long Lane Research Forest
 
 Master's Thesis
 
-#### Presentations
+ #### Visualizations
+
+Shiny App from Data Vis
+GIS Visualizations 
+ 
+#### Presentations / Talks
 
 Plant-Animal Interactions
 Developmental Symbiosis
 Sophomore Summer Poster
 Junior Summer Poster
 
-#### Visualizations
 
-Shiny App from Data Vis
-GIS Visualizations
 
-#### Code
-
-Wolf Density Code
 
