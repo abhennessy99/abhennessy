@@ -11,7 +11,7 @@ While at Wesleyan I worked as a GIS Research Assistant under <a href = "https://
 
 Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, Python, SQL, and HTML
 
-Advanced Visualization and Pattern Analysis Techinques: <b> Expert: </b> Shiny, Leaflet, Plotly, Generalized Linear and Mixed Models, Principle Components Analysis, <b> Proficient:</b> in Geographically Weighted Regression, Factor Analysis, Cluster analyses (k-means, PAM, hierarchical) Association Rules and Mining, Correspondance Analysis, 
+Advanced Visualization and Pattern Analysis Techinques: <b> Expert: </b> Shiny, Leaflet, Plotly, Generalized Linear and Mixed Models, Principle Components Analysis, <b> Proficient:</b> in Geographically Weighted Regression, Factor Analysis, Cluster analyses (k-means, PAM, hierarchical) Association Rules and Mining, Correspondance Analysis 
 
 ### Portfolio
 #### Projects
