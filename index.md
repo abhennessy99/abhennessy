@@ -42,9 +42,9 @@ GIS Visualizations
 
 Gave a 45 minute presentation on <a href = "Hennessy_Ecosystem_Engineering.pdf"> Ecosystem Engineering </a> and led discussion on current research about how these Plant-Animal Interactions structure communities.
 
-Held an 1:30 lecture on <a href = Developmental_Symbiosis.pdf> Developmental Symbiosis </a> and how the microbiome of many plants and animals influence their evolution, their development and morphogenesis, and the evolution of developmental processes. 
+Held an 1:30 lecture on <a href = "Developmental_Symbiosis.pdf"> Developmental Symbiosis </a> and how the microbiome of many plants and animals influence their evolution, their development and morphogenesis, and the evolution of developmental processes. 
 
-Created a <a href = Hennessy.Poster.2019.pdf> poster </a> and presented at a summer poster session about field work conducted in the summer of 2019 that focused on how forest fragmentation can influence the effects of bird predation on a temperatre caterpillar community across two host plant species. 
+Created a <a href = "Hennessy.Poster.2019.pdf"> poster </a> and presented at a summer poster session about field work conducted in the summer of 2019 that focused on how forest fragmentation can influence the effects of bird predation on a temperatre caterpillar community across two host plant species. 
 
 Helped create and present a <a href = "Singer Lab Summer 2020 Poster.pdf"> poster </a> at a virtual poster session in 2020 about the book chapter from "Caterpillars in the Middle" the Singer Lab co-authored together. I was responsible for the effects of chemical sequestration and how the enemy-free space created by this defensive trait may lead to the high rates of host-plant specialization seen across insect herbivore species. 
 
