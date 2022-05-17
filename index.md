@@ -42,7 +42,7 @@ As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.pn
  
 #### Presentations / Talks
 
-I presented my Master's Thesis in a Graduate Student Research Seminar at Wesleyan in a style that was digestable to a broad audience of non-sepcialists. 
+I presented my Master's Thesis in a <a href = "557_Presentation.pdf"> Graduate Student Research Seminar </a> at Wesleyan in a style that was digestable to a broad audience of non-sepcialists. 
 
 Gave a 45 minute presentation on <a href = "Hennessy_Ecosystem_Engineering.pdf"> Ecosystem Engineering </a> and led discussion on current research about how these Plant-Animal Interactions structure communities.
 
