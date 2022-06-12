@@ -34,7 +34,7 @@ My  <a href = "ABH_MA_Thesis_Final_Draft.pdf"> master's thesis </a> is  titled <
 
 #### Visualizations
 
-I created a <a href = "datavis_Shiny_app.R"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
+I created a <a href = "https://abhennessy.shinyapps.io/Norway_Pollinators/"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
 
 
 As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.png"> Marine Protected Areas </a> in the Pacific Ocean and focused around many marine sancturaries in <a href = "PMNM Buffers.png"> Hawaii </a> to help inform policy decisions to reduce bycatch and enforce fishing regulations. 
