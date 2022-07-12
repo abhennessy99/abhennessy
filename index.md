@@ -6,18 +6,27 @@ In 2021 I graduated from Wesleyan University with a 3.76 GPA double majoring in 
 
 I recently recieved my Master's Degree in Biology at Wesleyan where I continued research that I started during my undergraduate career in the <a href="http://msinger.faculty.wesleyan.edu/"> Singer Lab </a> and graduated with a 4.0 GPA. 
 
-While at Wesleyan I worked as a GIS Research Assistant under <a href = "https://jenniferraynor.wordpress.com/"> Jennifer Raynor Ph.D. </a> where I worked on multiple projects involving the environment and economic policies through geospatial analysis. 
+While at Wesleyan I worked as a GIS Research Assistant under <a href = "https://jenniferraynor.wordpress.com/"> Jennifer Raynor Ph.D. </a> where I worked on multiple projects involving the environment and economic research through geospatial analysis. 
 
 
-Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, Python, SQL, and HTML
+Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, Python, and HTML
 
 Advanced Visualization and Pattern Analysis Techinques: <b> Expert: </b> Shiny, Leaflet, Plotly, Generalized Linear and Mixed Models, Principle Components Analysis, <b> Proficient:</b> in Geographically Weighted Regression, Factor Analysis, Cluster analyses (k-means, PAM, hierarchical) Association Rules and Mining, Correspondance Analysis 
 
 ### Portfolio
+#### Visualizations
+
+I created a <a href = "https://abhennessy.shinyapps.io/Norway_Pollinators/"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
+
+
+As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.png"> Marine Protected Areas </a> in the Pacific Ocean and focused around many marine sancturaries in <a href = "PMNM Buffers.png"> Hawaii </a> to help inform economic decisions to reduce bycatch and enforce fishing regulations. 
+
+I created these map layouts as part of establishing Wesleyan's Long Lane Research Forest. <a href = "Long Lane Research Forest.png" General Layout </a> and <a href = "Long Lane Research Forest Soil Series.png" Soil Series </a>
+
 #### Projects
 
-##### messy.cats
-I co-authored an R package (currently in review to be added to CRAN) that helps clean messy categorical data. This package has multiple functions that use a reference vector of clean names, and a vector of messy names, calculates the string distance between each messy name and the clean names and returns the closest match for each messy name found in the clean vector.  <a href = "https://hkarp1.github.io/messy.cats/"> messy.cats </a>
+##### Master's Thesis
+My  <a href = "ABH_MA_Thesis_Final_Draft.pdf"> master's thesis </a> is  titled <i> Enemy-Free Space for Parasitoids </i> and tries to apply the Enemy-Free Space hypothesis to these higher trophic level animals. In a similar fashion to herbivores specializing on a host-plant, the vast majority of parasitoids specialize their host selection on a single or related family of insect hosts. We hypothesized that pressures from predators may lead to this specialization, and parasitoids will prefer insect hosts, in our study system caterpillars, that are well protected from generalist predators like birds and ants. To test these predictions I combined and analyzed data from predator exclusion experiments conducted in temperate Connecticut forests across the last 20 years to quantify the risk of predation for each caterpillar species across eight host plants. The parasitism rate for each of these caterpillar and host plant combinations were calculated from laboratory rearing of caterpillars collected from the control branches of the exclusion experiments, and these values are used in a generalized linear model framework to asses the relationships between risk of predation and parasitism rates of the caterpillar community.
 
 ##### E&ES Senior Seminar
 As a capstone senior project for the Earth & Environmental Science major I helped to establish an unused plot of forested land owned by Wesleyan University as a long term experimental research forest. I randomly distributed eight plots across the forest's area, led a field team to measure the diameter of all trees in the plots, take soil samples, and calculate the total amount of carbon stored in this forest. The goal of this project was to asses the viability of this plot as a carbon offset for the travel emissions of Wesleyan University and provide space for future students to implement research projects. <a href = "Long Lane Research Forest.pdf" target="_blank"> Wesleyan University Long Lane Research Forest </a>
@@ -28,18 +37,10 @@ I digitized, visualized, and analyzed wolf ranges in multiple western states to 
 ##### Caterpillars in the Middle Book Chapter
 During the summer of 2020 the members of the Singer lab were asked to co-author a chapter in the book <i> Caterpillars in the Middle </i> that discussed the Enemy-Free Space hypothesis and how it applied to Lepidopteran larvae (caterpillars). The enemy-free space hypothesis was posited in the late 1980s and early 90s as a challenge to conventional evolutionary and ecological theory about the abundance of insect herbivores that specialize on a single host plant or family of related plants. Most research done on this phenomenon focused on bottom-up effects, mainly traits of the host plant like secondary defense chemicals and availability in the environment to explain dietary specialization. The EFS hypothesis spurred interest in the effect generalist predators like birds, ants, and wasps may have on herbivore host selection, and that if the pressure from these predators are strong enough herbivore phenotypes that are adapted to use hot plants that provide the most anti-predator traits may beselected for. I lead the section on chemical sequestration performing literature searches and wrote about how herbivores utilizing host plant secondary chemicals for their own defence my lead to dietary specialization.
 
-##### Master's Thesis
-My  <a href = "ABH_MA_Thesis_Final_Draft.pdf"> master's thesis </a> is  titled <i> Enemy-Free Space for Parasitoids </i> and tries to apply the Enemy-Free Space hypothesis to these higher trophic level animals. In a similar fashion to herbivores specializing on a host-plant, the vast majority of parasitoids specialize their host selection on a single or related family of insect hosts. We hypothesized that pressures from predators may lead to this specialization, and parasitoids will prefer insect hosts, in our study system caterpillars, that are well protected from generalist predators like birds and ants. To test these predictions I combined and analyzed data from predator exclusion experiments conducted in temperate Connecticut forests across the last 20 years to quantify the risk of predation for each caterpillar species across eight host plants. The parasitism rate for each of these caterpillar and host plant combinations were calculated from laboratory rearing of caterpillars collected from the control branches of the exclusion experiments, and these values are used in a generalized linear model framework to asses the relationships between risk of predation and parasitism rates of the caterpillar community.
+##### messy.cats
+I co-authored an R package (currently in review to be added to CRAN) that helps clean messy categorical data. This package has multiple functions that use a reference vector of clean names, and a vector of messy names, calculates the string distance between each messy name and the clean names and returns the closest match for each messy name found in the clean vector.  <a href = "https://hkarp1.github.io/messy.cats/"> messy.cats </a>
 
 
-#### Visualizations
-
-I created a <a href = "https://abhennessy.shinyapps.io/Norway_Pollinators/"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
-
-
-As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.png"> Marine Protected Areas </a> in the Pacific Ocean and focused around many marine sancturaries in <a href = "PMNM Buffers.png"> Hawaii </a> to help inform economic decisions to reduce bycatch and enforce fishing regulations. 
-
- 
 #### Presentations / Talks
 
 I presented my Master's Thesis in a <a href = "557_Presentation.pdf"> Graduate Student Research Seminar </a> at Wesleyan in a style that was digestable to a broad audience of non-sepcialists. 
