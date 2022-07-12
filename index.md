@@ -21,7 +21,7 @@ I created a <a href = "https://abhennessy.shinyapps.io/Norway_Pollinators/"> shi
 
 As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.png"> Marine Protected Areas </a> in the Pacific Ocean and focused around many marine sancturaries in <a href = "PMNM Buffers.png"> Hawaii </a> to help inform economic decisions to reduce bycatch and enforce fishing regulations. 
 
-I created these map layouts as part of establishing Wesleyan's Long Lane Research Forest. <a href = "Long Lane Research Forest.png" General Layout </a> and <a href = "Long Lane Research Forest Soil Series.png" Soil Series </a>
+I created these map layouts as part of establishing Wesleyan's Long Lane Research Forest. <a href = "Long Lane Research Forest.png"> General Layout </a> and <a href = "Long Lane Research Forest Soil Series.png"> Soil Series </a>
 
 #### Projects
 
