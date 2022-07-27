@@ -1,4 +1,8 @@
 ## Hello! I'm Andrew Hennessy, a data scientist with a passion for Ecology and the Environment.
+![IMG_1683](https://user-images.githubusercontent.com/53009158/181345436-9e1038e9-4f28-41f9-b24f-c45084c89983.JPG)
+
+<small> We got a little carried away with the duck pond soil pit </small>
+
 This page has a condensed resume and a portfolio of my projects, visualizations, and presentations.
 
 ### Resume
@@ -13,20 +17,26 @@ Programming Skills: <b>Expert:</b> in R and ArcGIS <b>Proficient:</b> in Stata, 
 
 Advanced Visualization and Pattern Analysis Techinques: <b> Expert: </b> Shiny, Leaflet, Plotly, Generalized Linear and Mixed Models, Principle Components Analysis, <b> Proficient:</b> in Geographically Weighted Regression, Factor Analysis, Cluster analyses (k-means, PAM, hierarchical) Association Rules and Mining, Correspondance Analysis 
 
+![image](https://user-images.githubusercontent.com/53009158/181345011-72fd39d5-4674-4ea0-bf27-0f406d7cbcfd.png)
+
+
 ### Portfolio
 #### Visualizations
 
 I created a <a href = "https://abhennessy.shinyapps.io/Norway_Pollinators/"> shiny application </a> that uses <a href = "https://www.gbif.org/dataset/aea17af8-5578-4b04-b5d3-7adf0c5a1e60"> data </a> from the Norweigian Institute for Nature Research that sampled just under 4,000,000 occurences of butterfly and bumblebee pollinators from 2009 - 2020. I used Shiny in R in combination with interactive graphs, Leaflet, and ggplotly maps to allow users to explore the diversity and species distribution of pollinators across Norway.
 
-
 As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.png"> Marine Protected Areas </a> in the Pacific Ocean and focused around many marine sancturaries in <a href = "PMNM Buffers.png"> Hawaii </a> to help inform economic decisions to reduce bycatch and enforce fishing regulations. 
 
 I created these map layouts as part of establishing Wesleyan's Long Lane Research Forest. <a href = "Long Lane Research Forest.png"> General Layout </a> and <a href = "Long Lane Research Forest Soil Series.png"> Soil Series </a>
+
 
 #### Projects
 
 ##### Master's Thesis
 My  <a href = "ABH_MA_Thesis_Final_Draft.pdf"> master's thesis </a> is  titled <i> Enemy-Free Space for Parasitoids </i> and tries to apply the Enemy-Free Space hypothesis to these higher trophic level animals. In a similar fashion to herbivores specializing on a host-plant, the vast majority of parasitoids specialize their host selection on a single or related family of insect hosts. We hypothesized that pressures from predators may lead to this specialization, and parasitoids will prefer insect hosts, in our study system caterpillars, that are well protected from generalist predators like birds and ants. To test these predictions I combined and analyzed data from predator exclusion experiments conducted in temperate Connecticut forests across the last 20 years to quantify the risk of predation for each caterpillar species across eight host plants. The parasitism rate for each of these caterpillar and host plant combinations were calculated from laboratory rearing of caterpillars collected from the control branches of the exclusion experiments, and these values are used in a generalized linear model framework to asses the relationships between risk of predation and parasitism rates of the caterpillar community.
+
+![image](https://user-images.githubusercontent.com/53009158/181347978-46ca8d08-a0dd-4f96-95a7-bea766fd6464.png)
+
 
 ##### E&ES Senior Seminar
 As a capstone senior project for the Earth & Environmental Science major I helped to establish an unused plot of forested land owned by Wesleyan University as a long term experimental research forest. I randomly distributed eight plots across the forest's area, led a field team to measure the diameter of all trees in the plots, take soil samples, and calculate the total amount of carbon stored in this forest. The goal of this project was to asses the viability of this plot as a carbon offset for the travel emissions of Wesleyan University and provide space for future students to implement research projects. <a href = "Long Lane Research Forest.pdf" target="_blank"> Wesleyan University Long Lane Research Forest </a>
