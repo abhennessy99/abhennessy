@@ -1,8 +1,6 @@
 ## Hello! I'm Andrew Hennessy, a data scientist with a passion for Ecology and the Environment.
 ![IMG_1683](https://user-images.githubusercontent.com/53009158/181345436-9e1038e9-4f28-41f9-b24f-c45084c89983.JPG)
 
-<small> We got a little carried away with the duck pond soil pit </small>
-
 This page has a condensed resume and a portfolio of my projects, visualizations, and presentations.
 
 ### Resume
