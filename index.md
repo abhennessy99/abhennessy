@@ -27,6 +27,16 @@ As a GIS assistant I helped create maps showing <a href = "PMNM and EEZ Zones.pn
 
 I created these map layouts as part of establishing Wesleyan's Long Lane Research Forest. <a href = "Long Lane Research Forest.png"> General Layout </a> and <a href = "Long Lane Research Forest Soil Series.png"> Soil Series </a>
 
+In my Data Visualization course we worked with a huge variety of datasets and methods to create compelling and beautiful visualizations. I have included some examples from the exams, the homework and lab assignments, as well as my final project above. 
+
+This river plot shows how young adults change their drinking habits through high school and college.
+
+![college_drinking_riverplot](https://user-images.githubusercontent.com/53009158/182208322-d246aa75-0810-435e-afdd-9b117ef09601.png)
+
+
+Here is a shiny app I created that lets you interactively learn about college admission and tuition rates.
+https://abhennessy.shinyapps.io/CollegeViewer/
+
 
 #### Projects
 
