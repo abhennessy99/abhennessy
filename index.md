@@ -36,6 +36,8 @@ This river plot shows how young adults change their drinking habits through high
 
 Here is a shiny app I created that lets you interactively learn about college admission and tuition rates.
 <a href = "https://abhennessy.shinyapps.io/CollegeViewer"> Shiny App </a>
+<iframe src="https://abhennessy.shinyapps.io/CollegeViewer"></iframe>
+<object src="https://abhennessy.shinyapps.io/CollegeViewer"></object>
 
 
 #### Projects
