@@ -46,7 +46,7 @@ My  <a href = "ABH_MA_Thesis_Final_Draft.pdf"> master's thesis </a> is  titled <
 
 
 ##### E&ES Senior Seminar
-As a capstone senior project for the Earth & Environmental Science major I helped to establish an unused plot of forested land owned by Wesleyan University as a long term experimental research forest. I randomly distributed eight plots across the forest's area, led a field team to measure the diameter of all trees in the plots, take soil samples, and calculate the total amount of carbon stored in this forest. The goal of this project was to asses the viability of this plot as a carbon offset for the travel emissions of Wesleyan University and provide space for future students to implement research projects. <a href = "Long Lane Research Forest.pdf" target="_blank"> Wesleyan University Long Lane Research Forest </a>
+As a capstone senior project for the Earth & Environmental Science major I helped to establish an unused plot of forested land owned by Wesleyan University as a long term experimental research forest. I randomly distributed eight plots across the forest's area, led a field team to measure the diameter of all trees in the plots, take soil samples, and calculate the total amount of carbon stored in this forest. The goal of this project was to asses the viability of this plot as a carbon offset for the travel emissions of Wesleyan University and provide space for future students to implement research projects.<a href = "LLRF_Report_2021.pdf"> Long Lane Research Forest Report 2021 </a>
 
 ![image](https://user-images.githubusercontent.com/53009158/182668049-938a292b-930e-459a-8d9a-1ed3e2a38341.png)
 
@@ -67,7 +67,9 @@ I presented my Master's Thesis in a <a href = "557_Presentation.pdf"> Graduate S
 
 Gave a 45 minute presentation on <a href = "Hennessy_Ecosystem_Engineering.pdf"> Ecosystem Engineering </a> and led discussion on current research about how these Plant-Animal Interactions structure communities.
 
-Held a 1:30 lecture on <a href = "Developmental_Symbiosis.pdf"> Developmental Symbiosis </a> and how the microbiome of many plants and animals influence their evolution, their development and morphogenesis, and the evolution of developmental processes. 
+Held a 1:30 lecture on <a href = "Developmental_Symbiosis.pdf"> Developmental Symbiosis </a> and how the microbiome of many plants and animals influence their evolution, their development and morphogenesis, and the evolution of developmental processes.
+
+Presented the research we conduced in our senior seminar to the entire Wesleyan Earth and Environmental Science department as well as the Office of Sustainability. Described Long Lane Research Forest and its potential as a carbon offset for university funded air travel. <a href = "Long Lane Research Forest.pdf" target="_blank"> Wesleyan University Long Lane Research Forest </a>
 
 Created a <a href = "Hennessy.Poster.2019.pdf"> poster </a> and presented at a summer poster session about field work conducted in the summer of 2019 that focused on how forest fragmentation can influence the effects of bird predation on a temperatre caterpillar community across two host plant species. 
 
